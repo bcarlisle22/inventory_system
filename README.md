@@ -2,6 +2,6 @@ Inventory System
 <hr>
 <br>
 
-``Java``
+``JAVA``
 
 <br>
